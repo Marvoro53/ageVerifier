@@ -3,7 +3,7 @@ var agePrompt=prompt("What is your age?");
 if (agePrompt>=18) alert('Welcome!')
 else {
 alert('Sorry! Come back in a few years!')
-document.location="http://www.codelibary.com/";
+document.location="https://www.coolmathgames.com/";
 
 }
 
